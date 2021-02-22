@@ -1,0 +1,19 @@
+{
+  "name": "gencord-site",
+  "version": "0.0.1",
+  "description": "A simple, beginner-friendly, and easy-to-use library for interacting with the Discord API, with minimal syntax.",
+  "main": "index.js",
+  "authors": {
+    "name": "nerdthatnoonelikes",
+    "email": "kenrag24@gmail.com"
+  },
+  "repository": "https://github.com/Gencord/gencord/gencord-site",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
