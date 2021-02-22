@@ -39,7 +39,7 @@ module.exports = {
     nav: [
       {
         text: "Docs",
-        link: "/docs/",
+        link: "../docs/api-handler.md",
       },
       {
         text: "Guide",
