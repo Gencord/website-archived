@@ -51,6 +51,13 @@ module.exports = {
       },
     ],
     sidebar: {
+      "/docs/": [
+        {
+          title: "Documentation",
+          collapsable: false,
+          children: ["", "api-handler"],
+        },
+      ],
       "/guide/": [
         {
           title: "Guide",
