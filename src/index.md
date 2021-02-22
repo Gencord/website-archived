@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: "../assets/gencordlogo.jpeg"
 tagline:
 actionText: Get Started →
 actionLink: /guide/
