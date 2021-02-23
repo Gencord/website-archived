@@ -5,11 +5,11 @@ tagline:
 actionText: Get Started →
 actionLink: /guide/
 features:
-  - title: Feature 1 Title
-    details: Feature 1 Description
-  - title: Feature 2 Title
-    details: Feature 2 Description
-  - title: Feature 3 Title
-    details: Feature 3 Description
+  - title: All skill levels friendly
+    details: Minimal syntax, along with Ticket and Music modules for creating different bots
+  - title: Fast and Efficient
+    details: Only 2 dependencies
+  - title: Rapid Development
+    details: Supports new Discord API features as soon as possible
 footer: Made by Gencord Development with ❤️
 ---
