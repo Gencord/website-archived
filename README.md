@@ -1,3 +1,5 @@
+# This repository is now archived.
+
 # gencord.github.io
 The official repository for Gencord's website written in Vue.
 
